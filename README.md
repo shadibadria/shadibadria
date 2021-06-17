@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shadibadria](https://github.com/shadibadria)
 
-- 👀 I’m interested in [development / devops](development / devops)
+- 👀 I’m interested in Development / Devops Roles
 
 - 📫 How to reach me **shadibadria@gmail.com**
 
