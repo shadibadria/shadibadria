@@ -7,7 +7,7 @@
 
 - 👀 I’m interested in Development / Devops Roles
 
-- 📫 How to reach me **shadibadria@gmail.com**
+- 📫 Reach Me At  **shadibadria@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
