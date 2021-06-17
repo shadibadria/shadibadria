@@ -6,9 +6,6 @@
 <h1 align="center">Hi 👋, I'm Shadi badria</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shadibadria&label=Profile%20views&color=0e75b6&style=flat" alt="shadibadria" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shadibadria" alt="shadibadria" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/shadibadria](https://github.com/shadibadria)
 
