@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Shadi badria</h1>
-<h3 align="center">A passionate Software Engineer With +1 years of experience in scripting (Python , Bash) in Linux environment</h3>
+- Hi 👋, I'm @shadibadria A passionate Software Engineer
+
+- 💼 +1 years of experience in scripting (Python , Bash) in Linux environment.
 
 - 🌱 I’m currently learning toward **My BSC Computer Science Degree**
 
