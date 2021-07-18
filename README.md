@@ -1,4 +1,4 @@
-- Hi 👋, I'm @shadibadria A passionate Software Engineer ![](https://komarev.com/ghpvc/?username=shadibadria)
+- Hi 👋, I'm @shadibadria 
 - 💼 +1 years of experience in scripting (Python , Bash) in Linux environment.
 - 🌱 I’m currently learning toward **My BSC Computer Science Degree**
 - 👨‍💻 All of my projects are available at [https://github.com/shadibadria](https://github.com/shadibadria)
