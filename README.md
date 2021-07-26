@@ -1,9 +1,4 @@
-- Hi 👋, I'm @shadibadria 
-- 💼 +1 years of experience in scripting (Python , Bash) in Linux environment.
-- 🌱 I’m currently learning toward **My BSC Computer Science Degree**
-- 👨‍💻 All of my projects are available at [https://github.com/shadibadria](https://github.com/shadibadria)
-- 👀 I’m interested in Development roles
-- 📫 Reach Me At  **shadibadria@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
